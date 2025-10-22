@@ -1,34 +1,42 @@
-👩‍💻 **Karimen ben Romdhane**
+# 👩‍💻 Hey, I’m Karimen Ben Romdhane!
 
-Welcome to my GitHub profile! I'm Karimen ben Romdhane, a passionate computer science engineering student. My journey is defined by a commitment to continuous learning, problem-solving, and innovation.
+Welcome to my GitHub 👋  
+I’m a **computer science and electrical engineering student** who loves building things that make life smarter and easier — from mobile apps and websites to AI-powered tools and embedded systems.
 
----
-
-🔧 **Skills:**
-
-- **Programming Languages:** Proficient in Java, Python, PHP, and JavaScript.
-- **Web Development:** Experienced in creating responsive, multilingual websites using technologies like Angular, Bootstrap, and PHP.
-- **Mobile Development:** Skilled in Android app development, incorporating features such as interactive charts, data visualization, and backend integration.
-- **Database Management:** Expertise in working with MySQL databases for storing and retrieving data efficiently.
-- **Team Collaboration:** Strong project management and team coordination skills demonstrated through leadership roles and collaborative projects.
+I’m always experimenting, learning, and finding fun ways to mix **code, design, and innovation** into meaningful projects.
 
 ---
 
-🌱 **Currently Learning:**
+## 🔧 What I Work With
 
-I am currently expanding my expertise in:
-- **AI and Machine Learning:** Exploring innovative applications and techniques in artificial intelligence and machine learning.
-- **Angular Framework:** Enhancing my skills in building modern web applications.
-
----
-
-🚀 **Goals:**
-
-I aim to contribute to impactful projects, stay updated with emerging technologies, and continue creating solutions that bridge the gap between computer science and electrical engineering.
+- **Languages I Speak:** Java ☕, Python 🐍, PHP, JavaScript, and TypeScript  
+- **Web Stuff:** Angular, Express.js, Bootstrap, Laravel, Flask — I enjoy making clean, responsive, and multilingual websites  
+- **Mobile Apps:** Android (Java) and Ionic/Angular — I love adding charts, APIs, and dynamic visuals  
+- **Databases:** MySQL & MongoDB — where all the cool data lives  
+- **Hardware Side:** ARDUINO UNO  
+- **Soft Skills:** Teamwork, creativity, and a good dose of curiosity — also helped organize **GeekShack 4.0** 🎉  
 
 ---
 
-📫 **Get in Touch:**
+## 🌱 What I’m Learning Now
 
-- **LinkedIn:** [Karimen ben Romdhane](https://www.linkedin.com/in/karimen-benromdhane-34b828296/)
-- **Email:** karimenbenromdhane55@gmail.com
+- Diving deeper into **AI and Machine Learning** (especially for medical and smart systems)  
+- Exploring **full-stack web and mobile development** with APIs, JWT auth, and Cloudinary for storage  
+
+---
+
+## 🚀 My Goals
+
+Keep creating projects that connect **software with the real world**, explore **AI in healthcare**, and grow as an engineer who never stops learning.
+
+---
+
+## 📫 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/karimen-benromdhane-34b828296/)  
+- 📧 [karimenbenromdhane55@gmail.com](mailto:karimenbenromdhane55@gmail.com)  
+- 🧠 Always up for new ideas, collaborations, or just chatting about tech!
+
+---
+
+⭐️ *Thanks for stopping by! Feel free to check out my projects below — feedback is always welcome!* 😄
