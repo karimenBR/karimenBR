@@ -1,7 +1,7 @@
 # 👩‍💻 Hey, I’m Karimen Ben Romdhane!
 
 Welcome to my GitHub 👋  
-I’m a **computer science and electrical engineering student** who loves building things that make life smarter and easier — from mobile apps and websites to AI-powered tools and embedded systems.
+I’m a **computer science student** who loves building things that make life smarter and easier — from mobile apps and websites to AI-powered tools and embedded systems.
 
 I’m always experimenting, learning, and finding fun ways to mix **code, design, and innovation** into meaningful projects.
 
