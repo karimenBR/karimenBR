@@ -1,44 +1,47 @@
-# 👩‍💻 Hey, I’m Karimen Ben Romdhane!
+# 👋 Hi, I'm Karimen Ben Romdhane
 
-Welcome to my GitHub 👋  
-I’m a **computer science student** who loves building things that make life smarter and easier — from mobile apps and websites to AI-powered tools and embedded systems.
+I'm a software engineering student at **ENSIT** (GLID program), currently wrapping up my final-year project at **TALAN Tunisie** — building an AI-powered desktop automation agent called **AIVORA**.
 
-I’m always experimenting, learning, and finding fun ways to mix **code, design, and innovation** into meaningful projects.
+I like working at the intersection of systems, AI, and real-world usability. Less "demo project," more "does this actually work end-to-end."
 
 ---
 
 ## 🔧 What I Work With
 
-- **Languages I Speak:** Java ☕, Python 🐍, PHP, JavaScript, and TypeScript  
-- **Web Stuff:** Angular, Express.js, Bootstrap, Laravel, Flask — I enjoy making clean, responsive, and multilingual websites  
-- **Mobile Apps:** Android (Java) and Ionic/Angular — I love adding charts, APIs, and dynamic visuals  
-- **Databases:** MySQL & MongoDB — where all the cool data lives  
-- **Hardware Side:** ARDUINO UNO  
-- **Soft Skills:** Teamwork, creativity, and a good dose of curiosity — also helped organize **GeekShack 4.0** 🎉  
+**Languages:** Python, TypeScript, JavaScript, Java, PHP
+
+**AI / ML:** Local LLMs via Ollama (Mistral, DeepSeek-Coder, LLaVA), FastAPI, ChromaDB, RAG pipelines
+
+**Frontend:** Next.js, Electron, Angular, Ionic
+
+**Backend:** FastAPI, Express.js, Laravel, Flask
+
+**Databases:** SQLite, MySQL, MongoDB
+
+**Other:** Playwright, Windows UIA, Arduino
 
 ---
 
-## 🌱 What I’m Learning Now
+## 🚀 What I'm Building
 
-- Diving deeper into **AI and Machine Learning** (especially for medical and smart systems)  
-- Exploring **full-stack web and mobile development** with APIs, JWT auth, and Cloudinary for storage  
+### AIVORA — AI Desktop Automation Agent
+My PFE project. A locally-hosted multi-agent system that understands natural language and automates desktop tasks through a layered architecture: intent classification → planning → execution → validation, with a security layer, semantic memory (ChromaDB), and a multilingual UI (French, Arabic, English).
 
----
-
-## 🚀 My Goals
-
-Keep creating projects that connect **software with the real world**, explore **AI in healthcare**, and grow as an engineer who never stops learning.
+Built with Python/FastAPI backend, Next.js/Electron frontend, and custom-tuned Ollama models — no cloud dependency.
 
 ---
 
-## 📫 Let’s Connect!
+## 🌱 Currently Exploring
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/karimen-benromdhane-34b828296/)  
-- 📧 [karimenbenromdhane55@gmail.com](mailto:karimenbenromdhane55@gmail.com)  
-- 🧠 Always up for new ideas, collaborations, or just chatting about tech!
+- Multi-agent orchestration and LLM-based planning strategies
+- Desktop perception (accessibility trees + vision models)
+- AI in healthcare and real-world automation
 
 ---
 
-⭐️ *Thanks for stopping by! Feel free to check out my projects below — feedback is always welcome!* 😄
+## 📫 Let's Connect
 
-( AI GENERATED )
+- 💼 [LinkedIn](https://www.linkedin.com/in/karimen-benromdhane-34b828296/)
+- 📧 karimenbenromdhane55@gmail.com
+
+Always open to collaborations, feedback, or just talking through an interesting problem.
